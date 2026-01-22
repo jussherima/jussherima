@@ -25,7 +25,7 @@
 ```typescript
 class SeniorMobileDeveloper {
     name: string = "Josoa";
-    title: string = "Senior Mobile Developer";
+    title: string = "Mobile Developer";
     location: string = "Madagascar 🇲🇬";
 
     skills: object = {
